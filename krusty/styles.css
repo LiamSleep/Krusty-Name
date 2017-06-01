@@ -1,0 +1,26 @@
+body, html {
+    height: 100%;
+  }
+
+.menu {
+      display: none;
+  }
+
+#home{
+margin-top: 60px;
+
+}
+
+#navigation{
+  color: #af1924;
+  background-color:#ffffff;
+  opacity:100;
+}
+
+#background{
+  background-color: #379deb;
+
+}
+#menu{
+background-color: #ffffff;
+}
